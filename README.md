@@ -2,10 +2,12 @@
 The Tool its for create pastebin, logging account and read content of the pastebin link.
 
 
-EXEMPLE PASTEBIN API 
+# INSTALLATION 
+> ```pip install pastebinapi```
+
 
 ```py
-# EXEMPLE 
+# EXEMPLE PASTEBIN API 
 
 import pastebinapi
    
