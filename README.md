@@ -1,9 +1,12 @@
 # Pastebin_Create_Api_Python
-For create pastebin text from python 
+The Tool its for create pastebin, logging account and read content of the pastebin link.
 
 
+EXEMPLE PASTEBIN API 
 
 ```py
+# EXEMPLE 
+
 import pastebinapi
    
 username = "<Your Username>"
