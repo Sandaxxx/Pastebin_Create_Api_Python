@@ -3,7 +3,7 @@
 ![background](https://cdn.discordapp.com/attachments/1026388619126124554/1055780727247085588/image.png)
 
 # INSTALLATION 
-> ```pip install pastebinapi```
+>> ```pip install pastebinapi```
 
 
 ```py
