@@ -90,5 +90,6 @@ while True:
     # CREDIT DEVELOPPER SANDAX 
   if (choice == "4"):
     print(Fore.MAGENTA+'       Developped by Sandax'+Fore.YELLOW+'\n       Github : https://github.com/Sandaxxx/Pastebin_Create_Api_Python ')
+    time.sleep(5)
 
 
