@@ -26,7 +26,7 @@ while True:
   print("| [1] | ✶ "+Fore.GREEN+"Connect Account  "+Fore.RED+"              |")         
   print("| [2] | ✶ Create Pastebin                |")                
   print("| [3] | ✶ Text From URL Pastebin         |")    
-  print("| [3] | ✶ Crédit                         |")
+  print("| [4] | ✶ Crédit                         |")
   print("└―――――┴――――――――――――――――――――――――――――――――――┘")
   print(Fore.YELLOW)
   print(Fore.YELLOW)
@@ -88,7 +88,7 @@ while True:
 
 
     # CREDIT DEVELOPPER SANDAX 
-  if (choice == "3"):
+  if (choice == "4"):
     print(Fore.MAGENTA+'       Developped by Sandax'+Fore.YELLOW+'\n       Github : https://github.com/Sandaxxx/Pastebin_Create_Api_Python ')
 
 
